@@ -18,7 +18,9 @@ The purpose of this project is to simulate a wheeled mobile robot as it moves un
 
 ## WMR Simulations
 > [Youtube Video Link: Manual Control](https://www.youtube.com/watch?v=KaakY4X1c4o)
+> 
 > [Youtube Video Link: Obstacle Avoidance](https://youtu.be/VKyRv9VGiKg)
+> 
 > [Youtube Video Link: Figure 8 Path](https://www.youtube.com/watch?v=v8X3o6aBtSE)
 > 
 ## Status
