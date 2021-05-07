@@ -17,8 +17,10 @@ The purpose of this project is to simulate a wheeled mobile robot as it moves un
 * Ubuntu
 
 ## WMR Simulations
-> [Youtube Video Link](https://drive.google.com/file/d/1JV9sbhNlPb88Fd5_gYw9fAsfWXPp2F5t/view?usp=sharing)
-
+> [Youtube Video Link: Manual Control](https://www.youtube.com/watch?v=KaakY4X1c4o)
+> [Youtube Video Link: Obstacle Avoidance](https://youtu.be/VKyRv9VGiKg)
+> [Youtube Video Link: Figure 8 Path](https://www.youtube.com/watch?v=v8X3o6aBtSE)
+> 
 ## Status
 Project is: _finished_
 
